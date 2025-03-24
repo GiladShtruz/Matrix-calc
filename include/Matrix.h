@@ -2,9 +2,9 @@
 #include <iostream>
 #include <vector>
 
-class MatManager {
+class Matrix {
 public:
-	MatManager();
+	Matrix();
 	
 
 private:
