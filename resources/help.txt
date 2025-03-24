@@ -1,0 +1,9 @@
+The available commands are:
+* eval(uate) num n - compute the result of operation #num on all needed nªn matrices (that will be prompted)
+* scal(ar) val - creates an operation that multiplies the given matrix by scalar val
+* add num1 num2 - creates an operation that is the addition of the result of operation #num1 and the result of operation #num2
+* sub num1 num2 - creates an operation that is the subtraction of the result of operation #num1 and the result of operation #num2
+* comp(osite) num1 num2 - creates an operation that is the composition of operation #num1 and operation #num2
+* del(ete) num - delete operation #num from the operation list
+* help - print this command list
+* exit - exit the program
