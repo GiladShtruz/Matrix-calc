@@ -8,5 +8,5 @@ public:
 	
 
 private:
-	std::vector<std::vector> m_mat;
+	//std::vector<std::vector> m_mat;
 };
